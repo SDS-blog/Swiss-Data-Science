@@ -1,22 +1,22 @@
-title: Poirot
-tagline: Blogging for Data Scientists
+title: Swiss Data Science
+tagline: Blog with examples of our work
 logo: assets/img/poirot.jpg 
-owner: Ramnath Vaidyanathan
+owner: Christian Ruiz
 author:
-  email: ramnathv.gmail@gmail.com
-  github: ramnathv
-  firstname: Ramnath
-  lastname: Vaidyanathan
+  email: ruiz.crp@gmail.com
+  github: SDS-blog
+  firstname: Christian
+  lastname: Ruiz
 
 social:
-  github: ramnathv
-  twitter: ramnath_vaidya
+  github: SDS-blog
+  twitter: christian_ruiz_
 
 # Choose url: / for local development
-url: http://ramnathv.github.com/poirotBlog/
-rawurl: https://raw.github.com/ramnathv/poirotBlog/gh-pages/
+url: http://sds-blog.github.io/swiss-data-science/
+rawurl: https://raw.github.com/sds-blog/swiss-data-science/gh-pages/
 # url: /
-URL: http://github.com/ramnathv/poirot
+URL: http://github.com/sds-blog/swiss-data-science
 navigation: 
   - {item: Home, href: index.html}
   - {item: About, href: about.html}
